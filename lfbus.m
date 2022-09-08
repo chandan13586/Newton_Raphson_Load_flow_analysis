@@ -1,5 +1,4 @@
 %  This program obtains th Bus Admittance Matrix for power flow solution
-%  Copyright (c) 1998 by H. Saadat
 
 j=sqrt(-1); i = sqrt(-1);
 nl = linedata(:,1); nr = linedata(:,2); R = linedata(:,3);
